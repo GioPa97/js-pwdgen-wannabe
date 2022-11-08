@@ -24,3 +24,4 @@ console.log(
 document.getElementById("p-nome").innerHTML = nome;
 document.getElementById("p-cognome").innerHTML = cognome;
 document.getElementById("p-colore").innerHTML = colore;
+document.getElementById("p-password").innerHTML = nome + cognome + colore + (numero1 / numero2);
