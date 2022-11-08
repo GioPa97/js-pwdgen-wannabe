@@ -6,10 +6,12 @@
 
 .informazioni p {
     margin: 0;
+    font-style: italic;
+    color: rgb(177, 34, 34);
+
 }
 
 
-.informazioni-contatto{
-    color: rgb(238, 16, 219);
+.informazioni-contatto {
     font-weight: bold;
 }

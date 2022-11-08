@@ -4,11 +4,15 @@ let colore = prompt("Inserisci il tuo colore preferito");
 
 console.log(
     `
-    Informazioni______________________
+    Informazioni___________________________________________________
+
         1)Nome:    ${nome}
         2)Cognome: ${cognome}
         3)Colore:  ${colore}
-    __________________________________
+
+        Password:  ${nome + cognome + colore + 21}
+
+    ____________________________________________________Informazioni
     `
 );
 
